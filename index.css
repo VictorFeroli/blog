@@ -1,0 +1,9 @@
+body {
+    background-color: #efefef;
+}
+
+/* Blog header on index and post pages */
+#blog-title a { 
+    color: #fff;
+    background-color: #7a629d;
+}
